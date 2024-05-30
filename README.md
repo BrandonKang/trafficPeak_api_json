@@ -23,11 +23,12 @@ Here’s a rough explanation of the code.
 * The script uses argparse to parse the command-line argument which is the SQL query to execute.
 * It calls the execute_query function with the parsed query.
 
-To run the script, you would use a command like
-# define API URL and your credentials
-$ export API_URL="YOUR_API_URL"
-$ export API_USERNAME="YOUR_API_ID"
-$ export API_PASSWORD="YOUR_API_PASSWORD"
+To run the script, you would use a command like..
+
+* Define API URL and your credentials<br>
+$ export API_URL="YOUR_API_URL"<br>
+$ export API_USERNAME="YOUR_API_ID"<br>
+$ export API_PASSWORD="YOUR_API_PASSWORD"<br>
 
 $ python3 tp_api_json.py "SQL_QUERY_OF_YOURS"
 
