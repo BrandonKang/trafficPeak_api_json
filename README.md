@@ -40,6 +40,7 @@ Making it easier to integrate with other tools or scripts.
 
  - [Hydrilix Query Data](https://docs.hydrolix.io/docs/python-library)
  - [via Python Library](https://docs.hydrolix.io/docs/python-library)
+ - [DataStream2 Log Format](https://techdocs.akamai.com/datastream2/docs/log-format-1)
 
 
 ## Authors
