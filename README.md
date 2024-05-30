@@ -24,6 +24,10 @@ Here’s a rough explanation of the code.
 * It calls the execute_query function with the parsed query.
 
 To run the script, you would use a command like
+# define API URL and your credentials
+$ export API_URL="YOUR_API_URL"
+$ export API_USERNAME="YOUR_API_ID"
+$ export API_PASSWORD="YOUR_API_PASSWORD"
 
 $ python3 tp_api_json.py "SQL_QUERY_OF_YOURS"
 
