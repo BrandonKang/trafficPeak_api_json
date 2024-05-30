@@ -1,5 +1,5 @@
 
-# trafficpeak_api_json
+# Request data from TrafficPeak using JSON format APIs
 
 This is to get the TrafficPeak data using Python requests and Json modules.
 
