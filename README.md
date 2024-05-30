@@ -3,7 +3,7 @@
 
 This is to get the TrafficPeak data using Python requests and Json modules.
 
-Hydrolix provides a number of query interfaces that can be used to interact with the system.
+Hydrolix provides a number of query interfaces that can be used to interact with the system.<br>
 You can query your Hydrolix cluster via HTTP at https://<your-hostname>/query:
 
 $ curl -u "API_ID:API_PW" -XPOST https://${HDX_HYDROLIX_URL}/query -d 'SELECT count() FROM sample_project.sample_table'
